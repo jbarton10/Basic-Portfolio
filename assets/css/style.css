@@ -29,12 +29,13 @@
     bottom: 20px
 }
 .container{
-    max-width: 960px;
+    width: 960px;
     margin: 25px auto 0px auto;
     border: solid 1px #dddddd;
     position: relative;
     background: #ffffff;
     line-height: 30px;
+    height:1000px
     
     
 }
@@ -130,31 +131,45 @@ body{
 
 
 
+.imageText{
+    background: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    width:200px;
+    height:50px;
+    font-size: 25px;
+}
 
 #image1{
-    width: 1750;
-    height: 150;
+    width: 100px;
+    height: 100px;
     float: left;
+    margin:100px;
 
 }
 #image2{
-    width: 1750;
-    height: 150;
+    width: 100px;
+    height: 100px;
     float: left;
+    margin:100px;
 
 }#image3{
-    width: 1750;
-    height: 150;
+    width: 100px;
+    height: 100px;
     float: left;
+    margin:100px;
 
 }#image4{
-    width: 1750;
-    height: 150;
-    float: right;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin:100px;
 
 }#image5{
-    width: 1750;
-    height: 150;
-    float: right;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin:100px;
 
 }
