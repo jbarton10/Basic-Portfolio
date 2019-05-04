@@ -76,7 +76,7 @@ body{
     margin: 0px;
     padding: 0px;
     position: relative;
-    background-image: url(/assets/images/floor-tile.png);
+    background-image: url(assets/images/floor-tile.png);
     
 }
 /* Things that effect index.html */
